@@ -1,0 +1,96 @@
+2021-02-22 11:24:39 INFO  ClientServiceImpl:22 - Client 1 has been registered.
+2021-02-22 11:24:45 INFO  ClientServiceImpl:22 - Client 2 has been registered.
+2021-02-22 11:24:54 INFO  ClientServiceImpl:22 - Client 3 has been registered.
+2021-02-22 11:25:05 INFO  ClientServiceImpl:22 - Client 4 has been registered.
+2021-02-22 11:27:29 INFO  ClientServiceImpl:38 - Client 2 information has been updated.
+2021-02-22 11:48:33 INFO  ClientServiceImpl:38 - Client 2 information has been updated.
+2021-02-22 12:33:28 INFO  ClientServiceImpl:22 - Client 1 has been registered.
+2021-02-22 12:33:35 INFO  ClientServiceImpl:22 - Client 2 has been registered.
+2021-02-22 12:33:48 INFO  ClientServiceImpl:22 - Client 3 has been registered.
+2021-02-22 12:33:56 INFO  ClientServiceImpl:22 - Client 4 has been registered.
+2021-02-22 12:34:09 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-22 13:43:37 INFO  ClientServiceImpl:22 - Client 1 has been registered.
+2021-02-22 13:43:50 INFO  ClientServiceImpl:22 - Client 2 has been registered.
+2021-02-22 13:43:58 INFO  ClientServiceImpl:22 - Client 3 has been registered.
+2021-02-22 13:44:04 INFO  ClientServiceImpl:22 - Client 4 has been registered.
+2021-02-22 13:44:16 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-22 13:44:43 INFO  ClientServiceImpl:22 - Client 6 has been registered.
+2021-02-22 14:20:47 INFO  ClientServiceImpl:38 - Client 1 information has been updated.
+2021-02-22 14:23:48 INFO  ClientServiceImpl:44 - Client 1 has been deleted.
+2021-02-22 16:55:34 INFO  ClientServiceImpl:22 - Client 1 has been registered.
+2021-02-22 16:55:41 INFO  ClientServiceImpl:22 - Client 2 has been registered.
+2021-02-22 16:55:53 INFO  ClientServiceImpl:22 - Client 3 has been registered.
+2021-02-22 16:56:02 INFO  ClientServiceImpl:22 - Client 4 has been registered.
+2021-02-22 19:21:46 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-22 19:22:00 INFO  ClientServiceImpl:22 - Client 6 has been registered.
+2021-02-22 19:22:15 INFO  ClientServiceImpl:22 - Client 7 has been registered.
+2021-02-22 19:23:05 INFO  AccountServiceImpl:22 - Account 1 has been registered.
+2021-02-22 19:32:07 INFO  AccountServiceImpl:22 - Account 2 has been registered.
+2021-02-22 19:32:22 INFO  AccountServiceImpl:22 - Account 3 has been registered.
+2021-02-22 19:45:36 INFO  ClientServiceImpl:22 - Client 1 has been registered.
+2021-02-22 19:45:46 INFO  ClientServiceImpl:22 - Client 2 has been registered.
+2021-02-22 19:45:55 INFO  ClientServiceImpl:22 - Client 3 has been registered.
+2021-02-22 19:46:10 INFO  AccountServiceImpl:22 - Account 0 has been registered.
+2021-02-22 19:46:34 INFO  AccountServiceImpl:22 - Account 0 has been registered.
+2021-02-22 19:55:28 INFO  AccountServiceImpl:22 - Account 0 has been registered.
+2021-02-22 19:57:15 INFO  AccountServiceImpl:22 - Account 6 has been registered.
+2021-02-22 20:01:53 INFO  AccountServiceImpl:22 - Account 7 has been registered.
+2021-02-22 20:02:21 INFO  AccountServiceImpl:22 - Account 8 has been registered.
+2021-02-22 20:03:28 INFO  AccountServiceImpl:22 - Account 9 has been registered.
+2021-02-22 20:05:41 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 20:10:37 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 20:10:51 INFO  AccountServiceImpl:22 - Account 6 has been registered.
+2021-02-22 20:12:57 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 20:21:00 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 20:21:51 INFO  AccountServiceImpl:22 - Account 6 has been registered.
+2021-02-22 20:22:19 INFO  AccountServiceImpl:22 - Account 7 has been registered.
+2021-02-22 20:22:56 INFO  AccountServiceImpl:22 - Account 8 has been registered.
+2021-02-22 20:23:05 INFO  AccountServiceImpl:22 - Account 9 has been registered.
+2021-02-22 21:13:36 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 21:13:45 INFO  AccountServiceImpl:22 - Account 6 has been registered.
+2021-02-22 21:26:19 INFO  AccountServiceImpl:22 - Account 5 has been registered.
+2021-02-22 21:26:34 INFO  AccountServiceImpl:22 - Account 6 has been registered.
+2021-02-22 21:27:13 INFO  AccountServiceImpl:22 - Account 7 has been registered.
+2021-02-22 22:53:38 INFO  AccountServiceImpl:70 - Account 3 has been updated.
+2021-02-22 22:58:26 INFO  AccountServiceImpl:70 - Account 3 has been updated.
+2021-02-22 22:59:14 INFO  AccountServiceImpl:76 - Account 3 has been deleted.
+2021-02-23 08:50:37 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-23 08:51:24 INFO  ClientServiceImpl:38 - Client 1 information has been updated.
+2021-02-23 08:51:44 INFO  ClientServiceImpl:44 - Client 4 has been deleted.
+2021-02-23 08:51:54 INFO  AccountServiceImpl:22 - Account 7 has been registered.
+2021-02-23 08:53:41 INFO  AccountServiceImpl:70 - Account 3 has been updated.
+2021-02-23 08:53:49 INFO  AccountServiceImpl:76 - Account 3 has been deleted.
+2021-02-23 08:58:11 INFO  AccountServiceImpl:22 - Account 8 has been registered.
+2021-02-23 21:53:29 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-23 21:55:14 INFO  ClientServiceImpl:38 - Client 4 information has been updated.
+2021-02-23 22:20:02 INFO  ClientServiceImpl:22 - Client 5 has been registered.
+2021-02-23 22:25:56 INFO  ClientServiceImpl:38 - Client 4 information has been updated.
+2021-02-23 22:26:23 INFO  ClientServiceImpl:44 - Client 4 has been deleted.
+2021-02-23 22:28:25 INFO  AccountServiceImpl:25 - Account 7 has been registered.
+2021-02-23 22:39:36 INFO  AccountServiceImpl:74 - Account 3 has been updated.
+2021-02-23 22:45:39 INFO  AccountServiceImpl:80 - Account 3 has been deleted.
+2021-02-23 22:46:03 INFO  AccountServiceImpl:80 - Account 4 has been deleted.
+2021-02-23 22:46:10 INFO  AccountServiceImpl:80 - Account 10 has been deleted.
+2021-02-23 22:49:41 INFO  AccountServiceImpl:80 - Account 10 has been deleted.
+2021-02-23 22:49:57 INFO  AccountServiceImpl:80 - Account 2 has been deleted.
+2021-02-23 22:50:30 INFO  AccountServiceImpl:80 - Account 1 has been deleted.
+2021-02-23 22:54:06 INFO  AccountServiceImpl:80 - Account 2 has been deleted.
+2021-02-23 22:55:55 INFO  AccountServiceImpl:80 - Account 1 has been deleted.
+2021-02-24 09:26:39 INFO  ClientServiceImpl:22 - Registered: Client 5
+2021-02-24 09:26:45 INFO  ClientServiceImpl:28 - Retrieved: All Clients
+2021-02-24 09:27:12 INFO  ClientServiceImpl:33 - Retrieved: Client 4
+2021-02-24 09:27:24 INFO  ClientServiceImpl:33 - Retrieved: Client 4
+2021-02-24 09:27:25 INFO  ClientServiceImpl:42 - Updated: Client 4
+2021-02-24 09:27:36 INFO  ClientServiceImpl:33 - Retrieved: Client 4
+2021-02-24 09:27:57 INFO  ClientServiceImpl:33 - Retrieved: Client 6
+2021-02-24 09:45:49 INFO  ClientServiceImpl:22 - Registered: Client 1
+2021-02-24 09:46:03 INFO  ClientServiceImpl:28 - Retrieved: All Clients
+2021-02-24 09:46:36 INFO  ClientServiceImpl:33 - Retrieved: Client 1
+2021-02-24 09:46:42 INFO  ClientServiceImpl:33 - Retrieved: Client 5
+2021-02-24 09:46:49 INFO  ClientServiceImpl:33 - Retrieved: Client 1
+2021-02-24 09:46:51 INFO  ClientServiceImpl:42 - Updated: Client 1
+2021-02-24 09:46:54 INFO  ClientServiceImpl:33 - Retrieved: Client 5
+2021-02-24 09:47:02 INFO  AccountServiceImpl:46 - Retrieved: all accounts for client 5
+2021-02-24 09:47:02 INFO  AccountServiceImpl:25 - Registered: account 0 for client 5
+2021-02-24 09:47:19 INFO  AccountServiceImpl:46 - Retrieved: all accounts for client 2
+2021-02-24 09:47:19 INFO  AccountServiceImpl:46 - Retrieved: all accounts for client 2
