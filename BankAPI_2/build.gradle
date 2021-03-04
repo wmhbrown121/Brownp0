@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id "org.sonarqube" version "3.1.1"
+
 }
 
 group 'org.example'
@@ -26,10 +28,6 @@ dependencies {
 
 test {
     useJUnitPlatform()
-}
-
-plugins {
-    id "org.sonarqube" version "3.1.1"
 }
 
 sonarqube {

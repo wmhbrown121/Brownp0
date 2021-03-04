@@ -1,14 +1,12 @@
-revature/brown/daotests/AccountDaoTests.java
- revature.brown.daotests.AccountDaoTests
-revature/brown/utiltests/ConnectionTest.java
- revature.brown.utiltests.ConnectionTest
 revature/brown/servicetests/ClientServiceTests.java
  revature.brown.servicetests.ClientServiceTests
 revature/brown/servicetests/SearchAccountByBalance.java
  revature.brown.servicetests.SearchAccountByBalance
 revature/brown/daotests/ClientDaoTests.java
  revature.brown.daotests.ClientDaoTests
+revature/brown/daotests/AccountDaoTests.java
+ revature.brown.daotests.AccountDaoTests
+revature/brown/utiltests/ConnectionTest.java
+ revature.brown.utiltests.ConnectionTest
 revature/brown/servicetests/AccountServiceTests.java
  revature.brown.servicetests.AccountServiceTests
-revature/brown/daotests/MockAccountDaoTest.java
- revature.brown.daotests.MockAccountDaoTest
