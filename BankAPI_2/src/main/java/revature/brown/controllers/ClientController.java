@@ -12,6 +12,8 @@ import java.util.Set;
 
 public class ClientController {
 
+    private static Logger logger = Logger.getLogger(ClientController.class);
+
     private ClientService clientservice = new ClientServiceImpl(new ClientDaoPostgres());
     Gson gson = new Gson();
 
