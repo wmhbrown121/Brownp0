@@ -15,6 +15,8 @@ import java.util.Set;
 
 public class AccountController {
 
+    private static Logger logger = Logger.getLogger(AccountServiceImpl.class);
+
     private AccountService accountService = new AccountServiceImpl(new AccountDaoPostgres());
     private ClientService clientService = new ClientServiceImpl(new ClientDaoPostgres());
     Gson gson = new Gson();
